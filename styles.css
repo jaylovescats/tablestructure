@@ -1,0 +1,59 @@
+body {
+  background-color: pink;
+  color: deeppink;
+}
+
+h1{
+  text-align: center;
+}
+
+.stars{
+  text-align: center;
+}
+
+.author {
+  text-align: center;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+table, td, tr, th {
+  border: 1px solid deeppink;
+  border-collapse: collapse;
+}
+
+table {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.th {
+  font-weight: bold;
+}
+
+img {
+ width: 100px;
+ height: 100px;
+ margin: 0 auto;
+ display: block;
+}
+
+.hotpink {
+  background-color: hotpink;
+  color: pink;
+}
+
+#intro {
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+}
+
+#end {
+text-align: center;
+margin: 20px;
+padding: 20px;
+}
